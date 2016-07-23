@@ -1,0 +1,25 @@
+body {
+  margin-top: 30px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#apollo-logo {
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+
+.fa {
+  color: #444
+}
+
+.fa:hover {
+  color: #222
+}
+
+.fa-wikipedia-w {
+  color: #FFF;
+}
